@@ -1,50 +1,105 @@
 <h1 align="center">Hi 👋, I'm Mamun Hossain</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
-
-- 🌱 I’m currently learning **TypeScript, Next.js, and System Design**
-
-- 👯 I’m looking to collaborate on **open-source MERN projects**
-
-- 💬 Ask me about **React, Node.js, MongoDB, and Express**
-
-- 📫 How to reach me: **mamun128169@gmail.com**
-
-- ⚡ Fun fact: I love solving real-world problems with code
-
----
-
-### 🛠️ Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamun128169&show_icons=true&theme=github_dark" alt="Mamun's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun128169&theme=github-dark" alt="Mamun's streak" />
+  <a href="https://mamun-hossain-one.vercel.app" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:mh4559641@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/mamun-hossain-3a568b248" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://github.com/Mamun-Hossain-dev" target="_blank">💻 GitHub</a>
 </p>
 
 ---
 
-### 🚀 My Projects
+### 👨‍💻 About Me
 
-- 🔗 [Portfolio Website](https://your-portfolio-url.com)
-- 🔗 [Blog Platform](https://github.com/yourusername/blog-app)
-- 🔗 [E-commerce App](https://github.com/yourusername/ecommerce-mern)
+- 🎯 **MERN Stack Developer** | Focused on scalable full-stack web apps
+- 🌱 Currently learning: **TypeScript**, **Next.js**, **System Design**
+- 🧠 Strong in **React, Node.js, Express, MongoDB**, and **JWT authentication**
+- 💬 Ask me about: **React, Firebase, Next.js, REST APIs**
+- 📫 Reach me at: **mh4559641@gmail.com**
+- ⚡ Fun fact: I love solving real-world problems and mentoring beginners!
 
 ---
 
-### 📫 Connect with Me
+### 💼 Experience
+
+**Full Stack Developer (Part-time)**  
+🕒 *Feb 2025 – Present* | UpSkill Digital Agency – Dhaka, Bangladesh  
+- Built and deployed full-stack apps using MERN
+- Integrated authentication via Clerk and Firebase
+- Collaborated with designers to deliver SEO-optimized, responsive UIs
+
+**Frontend Instructor**  
+🕒 *Jan 2024 – Jan 2025* | NUB Computer Club (NUBCC)  
+- Taught modern JavaScript, React & Next.js to 50+ students
+- Mentored students on real-world projects and portfolio building
+
+---
+
+### 🚀 Featured Projects
+
+- 🔹 **[UpSkill Digital Agency Website](https://www.upskilldigitalagency.com/)**  
+  Full-stack site using Next.js, Tailwind CSS, Firebase & Firestore with dynamic routing, user auth, and Core Web Vitals optimization.
+
+- 🔹 **[Digital Marketing Portfolio](https://tanjil-hossain.com)**  
+  Marketing site with admin dashboard built using Next.js, Firebase, Node.js, Cloudinary & MongoDB. SEO and media optimization included.
+
+- 🔹 **[JWT Auth System with Role-Based Access](https://github.com/Mamun-Hossain-dev/Real-Time-Chat-Application)**  
+  Secure full-stack auth using React, Node, Express, JWT & MongoDB. Includes refresh tokens, role-based routing & form validation.
+
+- 📂 **More Projects:**  
+  Explore more on [my GitHub profile](https://github.com/Mamun-Hossain-dev) — CRUD apps, dashboards, API integrations, and more.
+
+---
+
+### 🛠️ Skills & Tools
+
+**Frontend:** React.js, Next.js, Redux, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools & Platforms:** Firebase, Clerk, Git, GitHub, Figma, Cloudinary  
+**Languages:** JavaScript, TypeScript, C, C++  
+**Other:** JWT Auth, REST API, React Hook Form, Express-Validator, SEO  
+**Problem Solving:** Solved 50+ LeetCode problems, DSA basics  
+**Soft Skills:** Teamwork, Communication, Adaptability, Time Management
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamun-Hossain-dev&show_icons=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun-Hossain-dev&theme=github-dark" height="180"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:mamun128169@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" /></a>
+  <a href="https://linkedin.com/in/mamun-hossain-3a568b248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:mh4559641@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://mamun-hossain-one.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
+---
+
+### 🩸 Leadership & Volunteering
+
+- Assistant Secretary, **Amra Rokto Jhoddha Blood Donation Club**  
+  Helped manage 200+ donors and organized 3,000+ donations
+
+- Moderator, **Voice of Northern University Facebook Group**  
+  Managed a 1,000+ member community, organized tech events
+
+---
+
+### 🌍 Languages
+
+- 🇧🇩 Bangla: Native  
+- 🇬🇧 English: Fluent
