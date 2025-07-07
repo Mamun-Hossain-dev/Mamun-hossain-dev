@@ -89,17 +89,4 @@
 
 ---
 
-### 🩸 Leadership & Volunteering
 
-- Assistant Secretary, **Amra Rokto Jhoddha Blood Donation Club**  
-  Helped manage 200+ donors and organized 3,000+ donations
-
-- Moderator, **Voice of Northern University Facebook Group**  
-  Managed a 1,000+ member community, organized tech events
-
----
-
-### 🌍 Languages
-
-- 🇧🇩 Bangla: Native  
-- 🇬🇧 English: Fluent
