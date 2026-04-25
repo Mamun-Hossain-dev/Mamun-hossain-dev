@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&fontSize=0" width="100%"/>
-
 # Mamun Hossain
 
 **Full-Stack Web Developer**
@@ -146,7 +144,5 @@ Monorepo ecosystem with a user-facing Next.js website, admin dashboard, and Node
 <div align="center">
 
 *Always building. Always learning. Always improving.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer&fontSize=0" width="100%"/>
 
 </div>
