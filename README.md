@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2997FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+scalable+production+systems;Always+building.+Always+improving.)](https://git.io/typing-svg)
+
 # Mamun Hossain
 
 **Full-Stack Web Developer**
