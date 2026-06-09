@@ -18,7 +18,7 @@
 
 ## About
 
-I work with **React** and **Next.js** on the frontend, and **Node.js / Express** on the backend — designing modular architectures, optimizing systems under real load, and shipping production-ready software. I integrate AI-assisted development into my workflow to move faster and own projects end-to-end, from API design through deployment on VPS.
+I work with **React** and **Next.js** on the frontend, and **Node.js** on the backend — designing modular architectures, optimizing systems under real load, and shipping production-ready software. I integrate AI-assisted development into my workflow to move faster and own projects end-to-end, from API design through deployment on VPS.
 
 - 🖥️ &nbsp;**Full-Stack Developer** at **Betopia Group** — production systems with Next.js 14, PostgreSQL, Redis, and Prisma ORM
 - ⚙️ &nbsp;Shipping with **Docker**, **Nginx** (reverse proxy + static serving), **GitHub Actions CI/CD**, and **VPS deployment**
