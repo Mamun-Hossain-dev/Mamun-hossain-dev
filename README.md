@@ -4,8 +4,8 @@
 
 **Full-Stack Developer**
 
-*Building scalable, high-performance systems with modern JavaScript.*
-*Obsessed with backend engineering, clean architecture, and how things work under the hood.*
+*Building scalable, high-performance systems with modern technologies.* 
+*Passionate about backend engineering, clean architecture, distributed systems, and understanding how things work under the hood.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mamun-hossain-one.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamun-hossain-3a568b248)
