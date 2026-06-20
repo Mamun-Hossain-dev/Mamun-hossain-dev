@@ -26,7 +26,6 @@ I work with **React** and **Next.js** on the frontend, and **Node.js** on the ba
 - 🌱 &nbsp;Currently exploring **AWS cloud** and diving deeper into **system design**
 - 🧠 &nbsp;Familiar with **NestJS** — learning its DI system and module architecture
 - 🎓 &nbsp;B.Sc. in Computer Science & Engineering — Northern University Bangladesh (2023–2027)
-- ⚡ &nbsp;Solved **50–60 problems** on LeetCode (Easy–Medium) | Interests: Football ⚽ · Movies 🎬 · Gardening 🌱
 
 ---
 
