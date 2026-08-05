@@ -164,11 +164,11 @@ Full-stack monorepo (user site, admin dashboard, backend API), independently dep
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mamun-Hossain-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=2997FF&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Mamun-Hossain-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=2997FF&cache_seconds=86400" height="165" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=Mamun-Hossain-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2997FF&fire=2997FF&currStreakLabel=ffffff" height="165" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamun-Hossain-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&cache_seconds=86400" height="140" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mamun-Hossain-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&cache_seconds=86400" height="140" alt="Top Languages"/>
 
 </div>
 
