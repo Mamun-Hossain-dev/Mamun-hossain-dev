@@ -19,7 +19,7 @@ Backend-focused engineer building event-driven, production-grade systems with No
 
 Backend-focused Full Stack Developer with production experience architecting scalable systems using Node.js, NestJS, and PostgreSQL. Specializes in event-driven, modular backend architecture using RabbitMQ for asynchronous processing, with a focus on optimizing systems under real production load.
 
-- Full Stack Developer at **Betopia Group**, building production systems with Node.js, NestJS, PostgreSQL, Prisma, and Redis
+- Full Stack Developer at **ScaleUp It Ltd**, building production systems with Node.js, NestJS, PostgreSQL, Prisma, and Redis
 - Core strengths: event-driven architecture with RabbitMQ, Redis caching, idempotent payment systems, and Docker/Nginx production deployment
 - Currently deepening AWS and distributed system design
 - Applies AI-assisted development through structured prompting and `.md` instruction files to accelerate delivery while owning projects end to end
@@ -87,7 +87,7 @@ Backend-focused Full Stack Developer with production experience architecting sca
 
 ## Work Experience
 
-**Betopia Group** · Full Stack Developer · Jul 2025 to Present · Dhaka, Bangladesh
+**ScaleUp It Ltd** · Full Stack Developer · Jul 2025 to Present · Dhaka, Bangladesh
 
 - Engineered REST APIs with Node.js, PostgreSQL, and Prisma in a domain-driven modular architecture, then implemented a Redis read-through caching layer that cut key endpoint latency by nearly 95%.
 - Orchestrated an event-driven side-effect pipeline across three independent consumers (email, notifications, invoicing) using RabbitMQ, decoupling core request flow from downstream tasks.
