@@ -87,7 +87,7 @@ Backend-focused Full Stack Developer with production experience architecting sca
 
 ## Work Experience
 
-**ScaleUp It Ltd** · Full Stack Developer · Jul 2025 to Present · Dhaka, Bangladesh
+**Betopia Group** · Full Stack Developer · Jul 2025 to Present · Dhaka, Bangladesh
 
 - Engineered REST APIs with Node.js, PostgreSQL, and Prisma in a domain-driven modular architecture, then implemented a Redis read-through caching layer that cut key endpoint latency by nearly 95%.
 - Orchestrated an event-driven side-effect pipeline across three independent consumers (email, notifications, invoicing) using RabbitMQ, decoupling core request flow from downstream tasks.
